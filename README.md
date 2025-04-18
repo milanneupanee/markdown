@@ -3,12 +3,12 @@ title: "Markdown Syntax"
 date:  2025-04-17T22:53:58+05:30
 draft: false
 github_link: "https://github.com/milanneupanee/markdown"
-author: "Gurusabarish"
+author: "Milan Neupane"
 tags:
   - Markdown syntax
   - Sample
   - example
-image: /images/post.jpg
+image: https://hugo-profile.netlify.app/images/post.jpg
 description: ""
 toc:
 ---
